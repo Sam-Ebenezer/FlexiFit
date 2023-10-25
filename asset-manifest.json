@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FlexiFit/static/css/main.af00ebde.css",
+    "main.js": "/FlexiFit/static/js/main.ffdb9967.js",
+    "static/js/787.6267aaec.chunk.js": "/FlexiFit/static/js/787.6267aaec.chunk.js",
+    "static/media/logo.svg": "/FlexiFit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FlexiFit/index.html",
+    "main.af00ebde.css.map": "/FlexiFit/static/css/main.af00ebde.css.map",
+    "main.ffdb9967.js.map": "/FlexiFit/static/js/main.ffdb9967.js.map",
+    "787.6267aaec.chunk.js.map": "/FlexiFit/static/js/787.6267aaec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af00ebde.css",
+    "static/js/main.ffdb9967.js"
+  ]
+}
